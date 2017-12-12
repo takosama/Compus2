@@ -9,7 +9,7 @@ e2_6::e2_6()
 	printf("2-6\n");
 }
 
-void e2_6::Run()
+ void  e2_6::Run()
 {
 	printf("g’·‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢\n");
 	int lng = 0;

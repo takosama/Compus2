@@ -2,8 +2,10 @@
 class l4_1
 {
 public:
-	void Run();
+	void Run() ;
 	l4_1();
 	~l4_1();
+	char* name = "l4_1";
+
 };
 

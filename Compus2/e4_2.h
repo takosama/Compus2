@@ -7,6 +7,8 @@ class e4_2
 public:
 	e4_2();
 	~e4_2();
-	void Run();
+	void Run() ;
+	char* name = "e4_2";
+
 };
 

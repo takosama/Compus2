@@ -5,6 +5,8 @@ class e3_7
 public:
 	e3_7();
 	~e3_7();
-	void Run();
+	void Run() ;
+	char* name = "e3_7";
+
 };
 

@@ -2,8 +2,10 @@
 class e3_13
 {
 public:
-	void Run();
+	void Run() ;
 	e3_13();
 	~e3_13();
+	char* name = "e3_13";
+
 };
 

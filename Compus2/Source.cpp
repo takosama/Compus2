@@ -16,10 +16,12 @@ using namespace std;
 #include "e4_4.h"
 #include "e4_6.h"
 #include "e4_7.h"
-int main() {
+#include "e4_13.h"
+#include "e4_14.h"
+#include "e4_15.h"
 
-	auto e = e4_7::e4_7();
-		; e.Run();
+
+int main() {
 	 //your code goes here
 
 	
