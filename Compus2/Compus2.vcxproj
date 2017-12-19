@@ -126,6 +126,8 @@
     <ClCompile Include="e4_15.cpp" />
     <ClCompile Include="e4_2.cpp" />
     <ClCompile Include="e4_20.cpp" />
+    <ClCompile Include="e4_22.cpp" />
+    <ClCompile Include="e4_24.cpp" />
     <ClCompile Include="e4_4.cpp" />
     <ClCompile Include="e4_6.cpp" />
     <ClCompile Include="e4_7.cpp" />
@@ -148,6 +150,8 @@
     <ClInclude Include="e4_15.h" />
     <ClInclude Include="e4_2.h" />
     <ClInclude Include="e4_20.h" />
+    <ClInclude Include="e4_22.h" />
+    <ClInclude Include="e4_24.h" />
     <ClInclude Include="e4_4.h" />
     <ClInclude Include="e4_6.h" />
     <ClInclude Include="e4_7.h" />

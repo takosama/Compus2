@@ -19,11 +19,14 @@ using namespace std;
 #include "e4_13.h"
 #include "e4_14.h"
 #include "e4_15.h"
-
+#include "e4_20.h"
+#include "e4_22.h"
+#include "e4_24.h"
 
 int main() {
 	 //your code goes here
-
+	auto e = e4_24::e4_24();
+	e.Run();
 	
 	return 0;
 }
