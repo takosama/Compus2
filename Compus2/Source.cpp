@@ -22,10 +22,11 @@ using namespace std;
 #include "e4_20.h"
 #include "e4_22.h"
 #include "e4_24.h"
-
+#include "e3_7m.h"
 int main() {
+
 	 //your code goes here
-	auto e = e4_24::e4_24();
+	auto e = e3_7m::e3_7m();
 	e.Run();
 	
 	return 0;

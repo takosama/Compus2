@@ -119,6 +119,7 @@
     <ClCompile Include="e3_13.cpp" />
     <ClCompile Include="e3_4.cpp" />
     <ClCompile Include="e3_7.cpp" />
+    <ClCompile Include="e3_7m.cpp" />
     <ClCompile Include="e3_8.cpp" />
     <ClCompile Include="e4_1.cpp" />
     <ClCompile Include="e4_13.cpp" />
@@ -143,6 +144,7 @@
     <ClInclude Include="e3_13.h" />
     <ClInclude Include="e3_4.h" />
     <ClInclude Include="e3_7.h" />
+    <ClInclude Include="e3_7m.h" />
     <ClInclude Include="e3_8.h" />
     <ClInclude Include="e4_1.h" />
     <ClInclude Include="e4_13.h" />
